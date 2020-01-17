@@ -1,0 +1,61 @@
+.date-picker {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	color: rgb(75, 77, 78);
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	.date-container {
+		position: relative;
+		display: inline-block;
+		width: 100%;
+		color: rgb(75, 77, 78);
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		padding: 0px 40px;
+		text-align: center;
+	}
+	h2, h4 {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding: 0px;
+		font-family: 'Roboto', sans-serif;
+		font-weight: 200;
+	}
+	span.fa {
+		position: absolute;
+		cursor: pointer;
+		&[data-method="subtract"] {
+			left: 0px;
+		}
+		&[data-method="add"] {
+			right: 0px;
+		}
+
+		.tablet & {
+			font-size: 37px;
+		}
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1010px) {
+	.date-picker {
+		h2 {
+			font-size: 1.5em;
+			font-weight: 400;
+		}
+		h4 {
+			font-size: 1.1em;
+		}
+		span.fa {
+			font-size: 3em;
+		}
+	}
+}

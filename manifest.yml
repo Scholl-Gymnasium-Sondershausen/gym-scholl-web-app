@@ -1,0 +1,9 @@
+---
+applications:
+- name: cf-scholl-gym-app
+  memory: 1024M
+  instances: 1
+  random-route: false
+  host: cf-scholl-gym-app
+  services:
+  - mongodb-service

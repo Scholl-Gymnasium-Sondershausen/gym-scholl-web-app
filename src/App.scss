@@ -1,0 +1,42 @@
+
+@import "scss/table-of-contents";
+@import "scss/libs/fontawesome/fontawesome";
+@import "scss/libs/fontawesome/brands";
+@import "scss/libs/fontawesome/regular";
+@import "scss/libs/fontawesome/solid";
+@import "scss/libs/fontawesome/light";
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+@import 'scss/responsive-border';
+
+@import 'scss/config.bs';
+@import 'scss/variables';
+
+
+@import 'scss/element';
+@import 'scss/componet';
+
+@import 'scss/general/general';
+@import 'scss/mixins';
+
+@import 'scss/responsive';
+@import 'scss/themes';
+@import 'scss/modules/about';
+@import 'scss/modules/banner';
+@import 'scss/modules/blog_page';
+@import 'scss/modules/brand';
+@import 'scss/modules/card';
+@import 'scss/modules/contact';
+@import 'scss/modules/footer';
+@import 'scss/modules/light_box';
+@import 'scss/modules/menu';
+@import 'scss/modules/popup';
+@import 'scss/modules/portfolio';
+@import 'scss/modules/team';
+@import 'scss/modules/testimonials';
+
+
+
+
+
