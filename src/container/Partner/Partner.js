@@ -40,52 +40,52 @@ class Partner extends Component {
                                     <div className="item">
                                         <div className="partner-logos">
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
-                                                <li><img src="/static-files/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
+                                                <li><img src="/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div className="item">
-                                        <div className="partner-logos">
-                                            <ul>
-                                                <li><img src="/static-files/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
-                                                <li><img src="/static-files/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
-                                            </ul>
-                                            <ul>
-                                                <li><img src="/static-files/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="item">
                                         <div className="partner-logos">
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
-                                                <li><img src="/static-files/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
+                                                <li><img src="/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div className="item">
                                         <div className="partner-logos">
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
-                                                <li><img src="/static-files/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
+                                                <li><img src="/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                             <ul>
-                                                <li><img src="/static-files/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
-                                                <li><img src="/static-files/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div className="item">
+                                        <div className="partner-logos">
+                                            <ul>
+                                                <li><img src="/assets/img/logo1.png" alt="img" className="img-fluid" /></li>
+                                                <li><img src="/assets/img/logo2.png" alt="img" className="img-fluid " /></li>
+                                            </ul>
+                                            <ul>
+                                                <li><img src="/assets/img/logo3.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo4.png" alt="img" className="img-fluid " /></li>
+                                                <li><img src="/assets/img/logo5.png" alt="img" className="img-fluid " /></li>
                                             </ul>
                                         </div>
                                     </div>

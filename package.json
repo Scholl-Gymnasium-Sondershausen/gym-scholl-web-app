@@ -2,7 +2,7 @@
   "name": "scholl-gym-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost:1337/static-files",
+  "homepage": "http://localhost:1337/",
   "dependencies": {
     "@fortawesome/fontawesome-pro": "^5.12.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.17",

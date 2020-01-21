@@ -30,7 +30,7 @@ class About extends Component {
                         <div className="row align-items-center">
 
                             <div className="col-lg-6 col-sm-12">
-                                <img src="/static-files/assets/img/About.png" alt="img" className="img-fluid wow fadeInUp" />
+                                <img src="/assets/img/About.png" alt="img" className="img-fluid wow fadeInUp" />
                             </div>
                             {/* <!-- End: col+ --> */}
 
@@ -64,7 +64,7 @@ class About extends Component {
                                 <div className="atbdb_content_module_contents">
                                     <div className="video-wrapper">
                                         <figure>
-                                            <img src="/static-files/assets/img/video2.png" alt="" />
+                                            <img src="/assets/img/video2.png" alt="" />
                                             <figcaption>
                                             <Link to="https://www.youtube.com/watch?v=RYZA__2b-_M" className="video-iframe play-btn popup-youtube">
                                                 <span className="fas fa-play"></span>

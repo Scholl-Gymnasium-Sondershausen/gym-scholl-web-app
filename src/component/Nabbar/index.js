@@ -68,7 +68,7 @@ class Nabbar extends Component {
                                 <div className="col-md-12">
                                     <nav className="mmn navbar navbar-expand-md navbar-dark sticky-top">
                                         <div className="logo">
-                                            <Link to='/'><img src="/static-files/assets/img/menu-logo2.png" alt="logo" /></Link>
+                                            <Link to='/'><img src="/assets/img/menu-logo2.png" alt="logo" /></Link>
                                         </div>
                                         <button className="navbar-toggler second-button" type="button" data-toggle="collapse" data-target="#mmn1"
                                         aria-controls="mmn1" aria-expanded="false" aria-label="Toggle navigation">

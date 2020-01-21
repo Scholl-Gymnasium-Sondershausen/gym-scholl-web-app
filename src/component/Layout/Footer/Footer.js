@@ -20,7 +20,7 @@ function Footer () {
                 <div className="row align-items-center">
                 <div className="col-lg-6 col-md-6 col-sm-12 column">
                     <div className="social_logo">
-                    <p className="pb-2"><Link to="#"><img src="/static-files/assets/img/footer-logo.png" alt="img" className="img-fluid" /></Link></p>
+                    <p className="pb-2"><Link to="#"><img src="/assets/img/footer-logo.png" alt="img" className="img-fluid" /></Link></p>
                     <p className="copyright mr-auto mt-2">&copy; 2019</p>
                     </div>
                 </div>

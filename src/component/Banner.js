@@ -6,8 +6,8 @@ export const MainBanner = () => {
                 {/* <!-- Banner Area Starts --> */}
                 <section id="banner-area" className="banner-area">
                 <div className="banner-overlay">
-                    <img src="/static-files/assets/img/banner_tl.png" alt="img" className="img-fluid" />
-                    <img src="/static-files/assets/img/heade_b_l.png" alt="img" className="img-fluid" />
+                    <img src="/assets/img/banner_tl.png" alt="img" className="img-fluid" />
+                    <img src="/assets/img/heade_b_l.png" alt="img" className="img-fluid" />
                 </div>
                 {/* <!-- End: banner-overlay --> */}
                 <div className="container d-flex h-100 align-items-center">
@@ -31,7 +31,7 @@ export const MainBanner = () => {
             <Fragment>
                  {/* <!-- Start intro-area --> */}
                 <section className="blog-grid-one blog-page intro-area d-flex align-items-center" id="home">
-                    <img src="/static-files/assets/img/hero-gardient.png" className="img-fluid one" alt="img" />
+                    <img src="/assets/img/hero-gardient.png" className="img-fluid one" alt="img" />
                     <div className="container">
                         <div className="row d-flex align-items-center">
                             <div className="col-md-12">

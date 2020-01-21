@@ -5,77 +5,77 @@
         "title": "Mathematik",
         "content": "Mach' dir keine Sorgen über deine Schwierigkeiten mit der Mathematik. Ich kann dir versichern, dass meine noch größer sind.",
         "author": "Albert Einstein",
-        "imgSrc": "/static-files/assets/img/tree_colum_icon.png"
+        "imgSrc": "/assets/img/tree_colum_icon.png"
       },
       {
         "title": "Deutsch",
         "content": "Zeichnen ist Sprache für die Augen, Sprache ist Malerei für das Ohr",
         "author": "Joseph Joubert",
-        "imgSrc": "/static-files/assets/img/tree_colum_icon.png"
+        "imgSrc": "/assets/img/tree_colum_icon.png"
       },
       {
         "title": "Physik",
         "content": "Die Naturwissenschaft braucht der Mensch zum Erkennen, den Glauben zum Handeln",
         "author": "Max Planck",
-        "imgSrc": "/static-files/assets/img/tree_colum_icon.png"
+        "imgSrc": "/assets/img/tree_colum_icon.png"
       }
     ],
     "service": [
       {
         "title": "Schwerpunkt Mathematik",
         "content": "Die Mathematik ist eine Wissenschaft, welche aus der Untersuchung von geometrischen Figuren und dem Rechnen mit Zahlen entstand.",
-        "imgSrc": "/static-files/assets/img/mathematik.png"
+        "imgSrc": "/assets/img/mathematik.png"
       },
       {
         "title": "Schwerpunkt Deutsch",
         "content": "Die deutsche Sprache ist eine der wichtigsten Kultur-, Wissenschafts- und Verkehrssprachen. Mehr als 100 Millionen Europäer sprechen Deutsch.",
-        "imgSrc": "/static-files/assets/img/deutsch.png"
+        "imgSrc": "/assets/img/deutsch.png"
       },
       {
         "title": "Schwerpunkt Physik",
         "content": "Die Physik ist eine Naturwissenschaft, die grundlegende Phänomene der Natur untersucht. Um deren Eigenschaften und Verhalten anhand von quantitativen Modellen und Gesetzmäßigkeiten zu erklären, befasst sie sich insbesondere mit Materie und Energie und deren Wechselwirkungen in Raum und Zeit.",
-        "imgSrc": "/static-files/assets/img/physik.png"
+        "imgSrc": "/assets/img/physik.png"
       }
     ],
     "team": [
       {
         "name": "Lorem Ipsum",
         "designation": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/service1.jpg"
+        "imgSrc": "/assets/img/service1.jpg"
       }
     ],
     "portfolio": [
       {
         "title": "Fußball Ag",
         "content": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/portfolio1.png"
+        "imgSrc": "/assets/img/portfolio1.png"
       },
       {
         "title": "Technik Ag",
         "content": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/portfolio2.png"
+        "imgSrc": "/assets/img/portfolio2.png"
       },
       {
         "title": "Informatik Ag",
         "content": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/portfolio3.png"
+        "imgSrc": "/assets/img/portfolio3.png"
       },
       {
         "title": "Chor Ag",
         "content": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/portfolio4.png"
+        "imgSrc": "/assets/img/portfolio4.png"
       }
     ],
     "testimonial": [
       {
         "name": "Lorem Ipsum",
         "designation": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/service1.jpg"
+        "imgSrc": "/assets/img/service1.jpg"
       },
       {
         "name": "Lorem Ipsum 2",
         "designation": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/static-files/assets/img/service1.jpg"
+        "imgSrc": "/assets/img/service1.jpg"
       }
     ]
   }

@@ -54,7 +54,7 @@ class About extends Component {
                                             <p>Investig ationes demons trave runt lectores legere liusry quod was legunt saepius claritas Investig tones. Pharetra dui, nec tincidunt ante mauris eu diam hasellus verra cursus.</p>
                                             <div className="row m-top-20 m-bottom-45">
                                                 <div className="col-lg-5">
-                                                    <img src="/static-files/assets/img/blog.jpg" className="img-fluid" alt="img" />
+                                                    <img src="/assets/img/blog.jpg" className="img-fluid" alt="img" />
                                                 </div>
                                                 <div className="col-lg-7 m-top-15">
                                                     <p>Investig ationes demons trave runt lectores legere liusry quod was legunt saepius claritas Investig tones haretra dui, nec tincidunt ante mauris eu diam. Phasellus verra nisl vitae cursus aei uismod supen dise saepius claritas legere melius tones haretra.</p>
@@ -70,7 +70,7 @@ class About extends Component {
                                                 <li className="numbers-decimal"><span>Strategy works with senior executives</span></li>
                                             </ol>
                                             {/* <!-- ends .number-list--> */}
-                                            <img src="/static-files/assets/img/blog-single.jpg" className="img-fluid" alt="img" />
+                                            <img src="/assets/img/blog-single.jpg" className="img-fluid" alt="img" />
                                             <p className="m-top-30">Investig ationes demons trave runt lectores legere liusry quod was legunt saepius claritas Investig tones. Pharetra dui, nec tincidunt ante mauris eu diam. Phasellus verra nisl vitae cursus aei uismod supen dise saepius claritas investig. Investiga tiones.</p>                   <div className="post-bottom d-flex justify-content-between">
                                             <div className="tags">
                                                 <ul className="d-flex pl-0">
@@ -97,7 +97,7 @@ class About extends Component {
 
                                             <div className="post-author cardify border">
                                                 <div className="author-thumb">
-                                                    <img src="/static-files/assets/img/auth1.png" alt="img" className="rounded-circle" />
+                                                    <img src="/assets/img/auth1.png" alt="img" className="rounded-circle" />
                                                 </div>
                                                 <div className="author-info">
                                                     <h5>About <span>Aazztech</span></h5>
@@ -139,21 +139,21 @@ class About extends Component {
                                                 <div className="row">
                                                     <div className="col-lg-4 col-sm-6 m-top-15 m-bottom-15">
                                                         <div className="single-post">
-                                                            <img src="/static-files/assets/img/blog1.jpg" className="img-fluid" alt="img" />
+                                                            <img src="/assets/img/blog1.jpg" className="img-fluid" alt="img" />
                                                             <h6><Link to='/' onClick={click} >Understand the UX Rules</Link></h6>
                                                             <p>April 20, 2019</p>
                                                         </div>
                                                     </div>
                                                     <div className="col-lg-4 col-sm-6 m-top-15 m-bottom-15">
                                                         <div className="single-post">
-                                                            <img src="/static-files/assets/img/blog2.jpg" className="img-fluid" alt="img" />
+                                                            <img src="/assets/img/blog2.jpg" className="img-fluid" alt="img" />
                                                             <h6><Link to='/' onClick={click} >Understand the UX Rules</Link></h6>
                                                             <p>April 20, 2019</p>
                                                         </div>
                                                     </div>
                                                     <div className="col-lg-4 col-sm-6 m-top-15 m-bottom-15">
                                                         <div className="single-post">
-                                                            <img src="/static-files/assets/img/blog3.jpg" className="img-fluid" alt="img" />
+                                                            <img src="/assets/img/blog3.jpg" className="img-fluid" alt="img" />
                                                             <h6><Link to='/' onClick={click} >Understand the UX Rules</Link></h6>
                                                             <p>April 20, 2019</p>
                                                         </div>
@@ -172,7 +172,7 @@ class About extends Component {
                                                             <div className="media">
                                                                 <div>
                                                                 <Link to='/' onClick={click} className="cmnt_avatar">
-                                                                    <img src="/static-files/assets/img/auth2.png" alt="img" className="media-object rounded-circle" />
+                                                                    <img src="/assets/img/auth2.png" alt="img" className="media-object rounded-circle" />
                                                                 </Link>
                                                                 </div>
                                                                 <div className="media-body">
@@ -195,7 +195,7 @@ class About extends Component {
                                                                     <div className="media">
                                                                         <div>
                                                                         <Link to='/' onClick={click} className="cmnt_avatar">
-                                                                            <img src="/static-files/assets/img/auth3.png" className="media-object rounded-circle" alt="Sample" />
+                                                                            <img src="/assets/img/auth3.png" className="media-object rounded-circle" alt="Sample" />
                                                                         </Link>
                                                                         </div>
                                                                         <div className="media-body">
@@ -219,7 +219,7 @@ class About extends Component {
                                                             <div className="media">
                                                                 <div>
                                                                 <Link to='/' onClick={click} className="cmnt_avatar">
-                                                                    <img src="/static-files/assets/img/auth4.png" alt="img" className="media-object rounded-circle" />
+                                                                    <img src="/assets/img/auth4.png" alt="img" className="media-object rounded-circle" />
                                                                 </Link>
                                                                 </div>
                                                                 <div className="media-body">

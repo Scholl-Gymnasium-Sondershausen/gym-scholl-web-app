@@ -19,8 +19,8 @@ class Gallery extends Component {
                                         <div className="row">
                                             <div className="col-lg-6">
                                                 <div className="position-relative wow fadeInLeft zoom-gallery slow">
-                                                    <Link to="/static-files/assets/img/portfolio1.jpg">
-                                                        <img src="/static-files/assets/img/portfolio5.png" className="w-100 rounded" alt="img" />
+                                                    <Link to="/assets/img/portfolio1.jpg">
+                                                        <img src="/assets/img/portfolio5.png" className="w-100 rounded" alt="img" />
                                                         <span className="mbr-gallery-title text-white">Karate Ag</span>
                                                     </Link>
                                                 </div>

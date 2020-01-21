@@ -27,7 +27,7 @@ class Contact extends Component {
                         <h2 className="card-title text-center text-white m-bottom-25">Ready to get started?</h2>
                         <p className="text-center text-white m-bottom-20">Nemo enim psam voluptatem quia voluptas aspernatur blandit tempus.</p>
                         <div className="contact_overlay position-absolute">
-                            <img src="/static-files/assets/img/heade-bottom-shape.png" alt="img" className="img-fluid" />
+                            <img src="/assets/img/heade-bottom-shape.png" alt="img" className="img-fluid" />
                         </div> {/*<!-- End: contact_overlay -->*/}
                         <div className="row d-flex justify-content-center">
                             <div className="col-md-10">
