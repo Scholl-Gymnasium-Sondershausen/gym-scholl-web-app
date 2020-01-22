@@ -39,9 +39,19 @@
     ],
     "team": [
       {
-        "name": "Lorem Ipsum",
-        "designation": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
-        "imgSrc": "/assets/img/service1.jpg"
+        "imgSrc": "/assets/img/team1.jpg",
+        "name": "George Smith",
+        "designation": "React Specialist"
+      },
+      {
+        "imgSrc": "/assets/img/team2.jpg",
+        "name": "Roberto Willis",
+        "designation": "UI Designer"
+      },
+      {
+        "imgSrc": "/assets/img/team3.jpg",
+        "name": "Maria Carlson",
+        "designation": "Support Hero"
       }
     ],
     "portfolio": [
@@ -76,6 +86,71 @@
         "name": "Lorem Ipsum 2",
         "designation": "Nemo Enim Ipsam Voluptatem Quia Voluptas Aspernatur Blandit Tempus Porttitor Maxime",
         "imgSrc": "/assets/img/service1.jpg"
+      }
+    ],
+    "blog": [
+      {
+        "imgSrc": "/assets/img/blog1.jpg",
+        "title": "Understanding the core UI/UX Rules",
+        "date": "May 15, 2018",
+        "category": "UI/UX Design",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog2.jpg",
+        "title": "Commercial work Design Solution for Everybody",
+        "date": "December 7, 2018",
+        "category": "Creative",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog3.jpg",
+        "title": "Announcing a Free Plan for Small Teams",
+        "date": "April 20, 2018",
+        "category": "Entrepreneurs",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog1.jpg",
+        "title": "Understanding the core UI/UX Rules",
+        "date": "May 15, 2018",
+        "category": "UI/UX Design",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog2.jpg",
+        "title": "Commercial work Design Solution for Everybody",
+        "date": "December 7, 2018",
+        "category": "Creative",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog3.jpg",
+        "title": "Announcing a Free Plan for Small Teams",
+        "date": "April 20, 2018",
+        "category": "Entrepreneurs",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog1.jpg",
+        "title": "Understanding the core UI/UX Rules",
+        "date": "May 15, 2018",
+        "category": "UI/UX Design",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog2.jpg",
+        "title": "Commercial work Design Solution for Everybody",
+        "date": "December 7, 2018",
+        "category": "Creative",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+      },
+      {
+        "imgSrc": "/assets/img/blog3.jpg",
+        "title": "Announcing a Free Plan for Small Teams",
+        "date": "April 20, 2018",
+        "category": "Entrepreneurs",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
       }
     ]
   }

@@ -40,7 +40,7 @@
   "scripts": {
     "start": "node server/build/server.js",
     "start:react": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && rsync -r -m ./build/ ../cms/public",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "watch:server": "babel --watch -d server/build/ server/src/",
