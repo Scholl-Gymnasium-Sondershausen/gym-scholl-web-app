@@ -13,8 +13,9 @@ class Nabbar extends Component {
             link2 = window.location.href.split(link)[0];
         var host  = link2+'blog',
             host2 = link2+'blog2',
-            host3 = link2+'blog3';
-                if(window.location.href === host || window.location.href === host2 || window.location.href === host3){
+            host3 = link2+'blog3',
+            host4 = link2+'impressum';
+                if(window.location.href === host || window.location.href === host2 || window.location.href === host3 || window.location.href === host4){
                     this.setState({
                     redirect: true
                 })
@@ -27,9 +28,10 @@ class Nabbar extends Component {
                     link2 = window.location.href.split(link)[0],
                     host  = link2+'blog',
                     host2 = link2+'blog2',
-                    host3 = link2+'blog3';
+                    host3 = link2+'blog3',
+                    host4 = link2+'impressum';
 
-                  if(host2 !== window.location.href && host !== window.location.href && host3 !== window.location.href){
+                  if(host2 !== window.location.href && host !== window.location.href && host3 !== window.location.href && host4 !== window.location.href){
                     event.preventDefault();
                     event.stopPropagation();
                     var $anchor = $(this);
@@ -96,6 +98,14 @@ class Nabbar extends Component {
                                                             <Link to="/blog3" className="nav-link">blog grid single</Link>
                                                             {/* <a href="blog_single.html" className="nav-link">blog grid single</a> */}
                                                         </li>
+                                                      <li>
+                                                        <Link to="/calendar" className="nav-link">calendar</Link>
+                                                        {/* <a href="blog_single.html" className="nav-link">blog grid single</a> */}
+                                                      </li>
+                                                      <li>
+                                                        <Link to="/impressum" className="nav-link">Impressum</Link>
+                                                        {/* <a href="blog_single.html" className="nav-link">blog grid single</a> */}
+                                                      </li>
                                                     </ul>
                                                 </li>
                                                 <li><a onClick={this.setRedirect} href="#testimonial" className="nav-link">testimonial</a></li>

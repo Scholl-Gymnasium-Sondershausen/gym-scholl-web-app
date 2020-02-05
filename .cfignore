@@ -1,0 +1,10 @@
+/src
+/.idea
+/cf.conf
+/cf-add-mongoDb.sh
+/cf-login.sh
+/cf-push.sh
+/README.md
+/server/src
+/manifest.yml
+/node_modules

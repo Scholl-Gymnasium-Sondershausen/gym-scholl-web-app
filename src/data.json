@@ -1,5 +1,8 @@
 [
   {
+    "config": {
+      "cmsHost": "cf-scholl-gym-cms.cfapps.eu10.hana.ondemand.com"
+    },
     "about": [
       {
         "title": "Mathematik",

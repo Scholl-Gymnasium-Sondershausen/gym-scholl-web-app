@@ -10,6 +10,11 @@
 @import '~bootstrap/scss/bootstrap.scss';
 @import 'scss/responsive-border';
 
+
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+@import '~@fullcalendar/bootstrap/main.css';
+
 @import 'scss/config.bs';
 @import 'scss/variables';
 
@@ -35,6 +40,7 @@
 @import 'scss/modules/portfolio';
 @import 'scss/modules/team';
 @import 'scss/modules/testimonials';
+@import 'scss/modules/calendar';
 
 
 
